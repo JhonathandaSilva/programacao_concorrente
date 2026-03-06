@@ -1,1 +1,4 @@
+Professor: Ricardo Stegh Camati
+
+
 ! Entender o problema do jantar dos filosofos.
