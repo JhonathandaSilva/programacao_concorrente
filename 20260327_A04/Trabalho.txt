@@ -1,0 +1,23 @@
+Usar Semáforo
+Usando sockets ou webservices
+cada cliente é uma thread
+cada cliente pode comprar mais de um veiculo
+
+
+log de produção, cor rgb(Atributos de veiculo, id estacao produtora, id funcionario)
+
+Clientes 
+	Possuem esteira(garagem), cliente é um endpoint, os carros vãp ficar com eles para sempre.
+
+Arquitetura é distribuida, as entidades devem ser remotas.
+
+(!) Unica lock permitida é Semafóro, array block ou estrutura blocksafes não podem ser utilizadas, devem ser apenas utilizados semaforos.
+
+
+
+Começar criando um semáforo de  posições,
+Não é necessário relatório, 
+Vai ser necessário ver o log.
+Todos tem que saber o que todos fizeram.
+Estudar Orientações a Objetos.
+Defesa será provavelmente na frente.

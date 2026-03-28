@@ -1,0 +1,6 @@
+Evitar starvation
+Evitar DeadLock
+(?) Analisar recursos para prever problemas acima citados.
+(!) Solucão com semaforos em java
+
+Mutex - Semaforo de uma posição
